@@ -1,0 +1,8 @@
+{
+    "video": false,
+    "baseUrl": "https://api.github.com",
+    "credentials": {
+        "authToken": "ZWU2Y2ZjZTgxZThhYTlkMTBkOGUzNDk1MDJiYjA2NGFkZmE1ZTA5Nw==",
+        "userName": "LikoNino" 
+    }
+}
